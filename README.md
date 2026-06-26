@@ -1,6 +1,6 @@
 # Jomer Antoniego Biason
 
-**MIS Assistant · IT Support Specialist · Web Developer · Open to Work**
+**MIS Assistant · Tech Support · Station Head · Open to Work**
 
 📍 General Trias Cavite, Philippines  ·  📧 jomerbiason@gmail.com
 
@@ -21,16 +21,16 @@ CS graduate with hands-on experience in **MIS, IT support, and operations manage
 
 ## 💼 Work Experience
 
-- **MIS Assistant** · *Easycash Lending Company Inc.*<br>
+- **MIS Assistant** · Easycash Lending Company Inc.<br>
   Managed data systems, financial records, and internal IT tools.
 
-- **Technical Support** · *iQor*<br>
+- **Technical Support** · iQor<br>
   Handled customer-facing tech troubleshooting in a BPO environment.
 
-- **Station Head** · *SeaOil Philippines*<br>
+- **Station Head** · SeaOil Philippines<br>
   Led daily operations including inventory, financial reconciliation, and staff coordination.
 
-- **IT Support Intern** · *Micro Star International (MSI)*<br>
+- **IT Support Intern** · Micro Star International<br>
   Assisted in hardware maintenance and system configuration.
 
 ---
