@@ -2,35 +2,35 @@
 
 **MIS Assistant · IT Support Specialist · Web Developer · Open to Work**
 
-📍 Cavite / Metro Manila, Philippines  ·  📧 jomerbiason@gmail.com
+📍 General Trias Cavite, Philippines  ·  📧 jomerbiason@gmail.com
 
 ---
 
 ## What I bring to the table
 
-CS graduate with hands-on experience in **MIS, IT support, and operations management**. I've worked across lending, BPO, fuel retail, and tech — giving me a rare mix of technical and business operations knowledge. I also build functional web tools using AI-assisted development, turning real workplace problems into working software.
+CS graduate with hands-on experience in **MIS, IT support, and operations management**. I've worked across lending, BPO, fuel retail, and tech - giving me a rare mix of technical and business operations knowledge. I also build functional web tools using AI-assisted development, turning real workplace problems into working software.
 
 ---
 
 ## 🌐 Portfolio & CV
 
 > **[👉 Visit My Portfolio Website](https://jomerbiason.github.io/curriculum-vitae/)**
-> Full work history · Certifications · Downloadable CV — all in one place.
+> Full work history · Certifications · Downloadable CV - all in one place.
 
 ---
 
 ## 💼 Work Experience
 
-- **MIS Assistant** — Easycash Lending Company Inc.
+- **MIS Assistant** - Easycash Lending Company Inc.
   Managed data systems, financial records, and internal IT tools.
 
-- **Technical Support** — iQor
+- **Technical Support** - iQor
   Handled customer-facing tech troubleshooting in a BPO environment.
 
-- **Station Head** — SeaOil Philippines
+- **Station Head** - SeaOil Philippines
   Led daily operations including inventory, financial reconciliation, and staff coordination.
 
-- **IT Support Intern** — Micro Star International
+- **IT Support Intern** - Micro Star International
   Assisted in hardware maintenance and system configuration.
 
 ---
@@ -62,7 +62,7 @@ CS graduate with hands-on experience in **MIS, IT support, and operations manage
 
 ## 📫 Let's Connect
 
-Open to **full-time, part-time, and freelance** opportunities in IT support, MIS, data operations, or web development. Based in the Philippines — available remotely or on-site.
+Open to **full-time, part-time, and freelance** opportunities in IT support, MIS, data operations, or web development. Based in the Philippines - available remotely or on-site.
 
 📧 jomerbiason@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/jomer-biason-6731b3245/) · 📥 [Download CV (PDF)](https://github.com/jomerbiason/curriculum-vitae/raw/main/JomerAntoniegoBiason_CurriculumVitae.pdf)
 
