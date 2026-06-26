@@ -53,7 +53,7 @@ CS graduate with hands-on experience in **MIS, IT support, and operations manage
 ## 🚀 Projects
 
 | Project | Description | Live |
-|---|---|---|
+|----|---|---|
 | ⛽ **Fuel IMS** | Enterprise inventory & variance checker for Philippine fuel stations with SRP auditing and UST forecasting | [Open App](https://jomerbiason.github.io/fuel-inventory-management-system-and-variance-checker/) |
 | 🎮 **GridCrypt** | Procedural 8-bit rogue-lite dungeon game with Web Audio engine, built for mobile | [Play](https://jomerbiason.github.io/grid-crypt/) |
 | 💣 **Minesweeper** | Browser game with difficulty levels, timer, and touch controls | [Play](https://jomerbiason.github.io/minesweeper-classic/) |
