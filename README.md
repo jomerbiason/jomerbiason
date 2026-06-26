@@ -21,16 +21,16 @@ CS graduate with hands-on experience in **MIS, IT support, and operations manage
 
 ## 💼 Work Experience
 
-- **MIS Assistant** - Easycash Lending Company Inc.
+- **MIS Assistant** · *Easycash Lending Company Inc.*<br>
   Managed data systems, financial records, and internal IT tools.
 
-- **Technical Support** - iQor
+- **Technical Support** · *iQor*<br>
   Handled customer-facing tech troubleshooting in a BPO environment.
 
-- **Station Head** - SeaOil Philippines
+- **Station Head** · *SeaOil Philippines*<br>
   Led daily operations including inventory, financial reconciliation, and staff coordination.
 
-- **IT Support Intern** - Micro Star International
+- **IT Support Intern** · *Micro Star International (MSI)*<br>
   Assisted in hardware maintenance and system configuration.
 
 ---
